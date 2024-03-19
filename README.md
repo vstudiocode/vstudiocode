@@ -6,7 +6,7 @@
     <img src="https://lanyard.cnrad.dev/api/1194813505157726218" alt="Discord Presence">
   </a
   <br><br><br>
-  <img src="https://streak-stats.demolab.com?user=rustwriter&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=vstudiocode&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -94,6 +94,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rustwriter/rustwriter/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vstudiocode/vstudiocode/output/snake.svg" alt="Snake animation" />
 
 ###
