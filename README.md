@@ -84,16 +84,16 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rustwriter/rustwriter/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/xar8jb39b08b340deg4mxczl5">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=xar8jb39b08b340deg4mxczl5&count=5" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/rustwriter/rustwriter/output/snake.svg" alt="Snake animation" />
 
 ###
