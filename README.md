@@ -1,7 +1,9 @@
 <h2 align="left">Hi 👋! My name is Arno I'm your average programmer</h2>
 
 ###
-
+<a href="https://discord.com/users/1194813505157726218">
+  <img src="https://lanyard.cnrad.dev/api/1194813505157726218" alt="Discord Presence">
+</a>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rustwriter&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
