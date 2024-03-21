@@ -85,7 +85,7 @@
 ###
 
 <div align="center">
-  <a href="https://stats.fm/rustwriter">
+  <a href="https://stats.fm/vstudiocode">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=xar8jb39b08b340deg4mxczl5&count=10" alt="Spotify recently played"  />
   </a>
 </div>
