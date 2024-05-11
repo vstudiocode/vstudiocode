@@ -17,13 +17,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             snake/snake.svg?palette=github-dark
-      - name: Sign the commit
-        uses: crazy-max/ghaction-import-gpg@v6
-        with:
-          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
-          passphrase: ""
-          git_user_signingkey: true
-          git_commit_gpgsign: true
       - name: Push the commit
         run: |
           git add .
